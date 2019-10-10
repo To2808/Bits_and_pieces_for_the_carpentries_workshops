@@ -55,6 +55,7 @@ Die Ausgabe von Programmen muss nicht immer in der Shell ausgegeben, sondern kan
 | Strg + k          | löscht die Eingabe nach dem Cursor       |
 | Strg + u          | löscht die Eingabe vor dem Cursor        |
 | Strg + y          | fügt Zwischenablage ein                  |
+| Strg + z          | hält laufenden Prozess an                |
 
 ## for-Schleifen
 
